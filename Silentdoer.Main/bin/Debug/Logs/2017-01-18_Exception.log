@@ -1,0 +1,14 @@
+捕获异常，时间为：{* 2017-01-18 09:48:46:352 *}
+本次异常发生的位置：{* Silentdoer.Common.MySqlHelper.ExecuteCmd(String strCmd) *}
+详细信息为：{* MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'class' in 'field list'
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 Silentdoer.Common.MySqlHelper.ExecuteCmd(String strCmd) 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlHelper.cs:行号 147 *}
+{* 异常扩展信息：strCmd：insert into student(name, class) values('wo', 'fuck');
+cntStr：server=127.0.0.1;port=3306;database=SchemaForTesting;user id=summer;password=mysqlpass;characterset=utf8;pooling=True *}
+

@@ -1,0 +1,72 @@
+捕获异常，时间为：{* 2017-01-17 18:00:01:625 *}
+本次异常发生的位置：{* Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) *}
+详细信息为：{* System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Silentdoer.Common.MySqlDbFactory.GetConnectionStr() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 57
+   在 Silentdoer.Common.MySqlDbFactory.CreateInstance() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 23
+   在 Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlHelper.cs:行号 67 *}
+{* 异常扩展信息：strCmd：select * from Class where ClsId = '2';。
+cntStr： *}
+
+捕获异常，时间为：{* 2017-01-17 18:00:47:948 *}
+本次异常发生的位置：{* Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) *}
+详细信息为：{* System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Silentdoer.Common.MySqlDbFactory.GetConnectionStr() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 57
+   在 Silentdoer.Common.MySqlDbFactory.CreateInstance() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 23
+   在 Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlHelper.cs:行号 67 *}
+{* 异常扩展信息：strCmd：select * from Class where ClsId = '2';。
+cntStr： *}
+
+捕获异常，时间为：{* 2017-01-17 18:01:20:681 *}
+本次异常发生的位置：{* Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) *}
+详细信息为：{* System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Silentdoer.Common.MySqlDbFactory.GetConnectionStr() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 57
+   在 Silentdoer.Common.MySqlDbFactory.CreateInstance() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 23
+   在 Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlHelper.cs:行号 67 *}
+{* 异常扩展信息：strCmd：select * from Class where ClsId = '2';。
+cntStr： *}
+
+捕获异常，时间为：{* 2017-01-17 18:01:29:683 *}
+本次异常发生的位置：{* Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) *}
+详细信息为：{* System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Silentdoer.Common.MySqlDbFactory.GetConnectionStr() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 57
+   在 Silentdoer.Common.MySqlDbFactory.CreateInstance() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 23
+   在 Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlHelper.cs:行号 67 *}
+{* 异常扩展信息：strCmd：select * from Class where ClsId = '2';。
+cntStr： *}
+
+捕获异常，时间为：{* 2017-01-17 18:05:07:413 *}
+本次异常发生的位置：{* Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) *}
+详细信息为：{* System.Configuration.ConfigurationErrorsException: 配置系统未能初始化 ---> System.Configuration.ConfigurationErrorsException: 无法识别的配置节 configuration。 (W:\VS2015\代码生成器生成后的规范\Silentdoer.Main\bin\Debug\Silentdoer.Main.vshost.exe.Config line 3)
+   在 System.Configuration.ConfigurationSchemaErrors.ThrowIfErrors(Boolean ignoreLocal)
+   在 System.Configuration.BaseConfigurationRecord.ThrowIfParseErrors(ConfigurationSchemaErrors schemaErrors)
+   在 System.Configuration.BaseConfigurationRecord.ThrowIfInitErrors()
+   在 System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Configuration.ClientConfigurationSystem.EnsureInit(String configKey)
+   在 System.Configuration.ClientConfigurationSystem.PrepareClientConfigSystem(String sectionName)
+   在 System.Configuration.ClientConfigurationSystem.System.Configuration.Internal.IInternalConfigSystem.GetSection(String sectionName)
+   在 System.Configuration.ConfigurationManager.get_ConnectionStrings()
+   在 Silentdoer.Common.MySqlDbFactory.GetConnectionStr() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 28
+   在 Silentdoer.Common.MySqlDbFactory.CreateInstance() 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlDbFactory.cs:行号 18
+   在 Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlHelper.cs:行号 67 *}
+{* 异常扩展信息：strCmd：select * from Class where ClsId = '2';。
+cntStr： *}
+
+捕获异常，时间为：{* 2017-01-17 18:06:53:969 *}
+本次异常发生的位置：{* Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) *}
+详细信息为：{* MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'cb_security_of_elec.class' doesn't exist
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   在 System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 Silentdoer.Common.MySqlHelper.Query(String strCmd, String tableKey) 位置 W:\VS2015\代码生成器生成后的规范\Silentdoer.Common\ForOperateDb\MySqlHelper.cs:行号 77 *}
+{* 异常扩展信息：strCmd：select * from Class where ClsId = '2';。
+cntStr：server=127.0.0.1;port=3306;database=cb_security_of_elec;user id=summer;password=mysqlpass;characterset=utf8;pooling=True *}
+

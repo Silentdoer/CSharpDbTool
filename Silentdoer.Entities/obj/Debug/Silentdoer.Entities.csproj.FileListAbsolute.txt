@@ -1,0 +1,10 @@
+W:\VS2015\代码生成器生成后的规范\Silentdoer.Entities\bin\Debug\Silentdoer.Entities.dll
+W:\VS2015\代码生成器生成后的规范\Silentdoer.Entities\bin\Debug\Silentdoer.Entities.pdb
+W:\VS2015\代码生成器生成后的规范\Silentdoer.Entities\obj\Debug\Silentdoer.Entities.csprojResolveAssemblyReference.cache
+W:\VS2015\代码生成器生成后的规范\Silentdoer.Entities\obj\Debug\Silentdoer.Entities.dll
+W:\VS2015\代码生成器生成后的规范\Silentdoer.Entities\obj\Debug\Silentdoer.Entities.pdb
+Q:\共享目录\老电脑\C#\代码生成器生成后的规范\Silentdoer.Entities\bin\Debug\Silentdoer.Entities.dll
+Q:\共享目录\老电脑\C#\代码生成器生成后的规范\Silentdoer.Entities\bin\Debug\Silentdoer.Entities.pdb
+Q:\共享目录\老电脑\C#\代码生成器生成后的规范\Silentdoer.Entities\obj\Debug\Silentdoer.Entities.csprojResolveAssemblyReference.cache
+Q:\共享目录\老电脑\C#\代码生成器生成后的规范\Silentdoer.Entities\obj\Debug\Silentdoer.Entities.dll
+Q:\共享目录\老电脑\C#\代码生成器生成后的规范\Silentdoer.Entities\obj\Debug\Silentdoer.Entities.pdb
